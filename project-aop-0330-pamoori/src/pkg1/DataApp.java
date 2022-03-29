@@ -1,8 +1,9 @@
+package pkg1;
 
-public class ServiceApp {
+public class DataApp {
    private String name;
 
-   public ServiceApp(String name) {
+   public DataApp(String name) {
       this.name = name;
    }
 

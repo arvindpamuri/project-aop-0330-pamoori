@@ -1,3 +1,4 @@
+package pkg1;
 
 public class ComponentApp {
    private String name;
